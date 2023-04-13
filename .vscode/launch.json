@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Vue debugger",
+      "url": "http://0.0.0.0:00",
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}

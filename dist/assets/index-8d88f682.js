@@ -1,0 +1,1 @@
+import{d as s,b as t,j as c,z as a,A as o}from"./runtime-core.esm-bundler-f0bd303b.js";const n={class:"h-full"},r=["src"],f=s({__name:"index",setup(l){const e=t("https://v3.cn.vuejs.org/");return(_,u)=>(c(),a("div",n,[o("iframe",{class:"wh-full",src:e.value},null,8,r)]))}});export{f as default};

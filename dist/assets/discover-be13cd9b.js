@@ -1,0 +1,1 @@
+import{j as e,z as o,A as t}from"./runtime-core.esm-bundler-f0bd303b.js";const n={class:"inline-block",viewBox:"0 0 32 32",width:"1em",height:"1em"},s=t("path",{fill:"currentColor",d:"M16 0C7.161 0 0 7.161 0 16s7.161 16 16 16s16-7.161 16-16S24.839 0 16 0z"},null,-1),c=[s];function i(r,_){return e(),o("svg",n,c)}const a={name:"cib-discover",render:i};export{a as _};

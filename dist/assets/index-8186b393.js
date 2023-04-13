@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{j as r,z as c}from"./runtime-core.esm-bundler-f0bd303b.js";const n={};function o(t,s){return r(),c("div",null,"路由管理")}const f=e(n,[["render",o]]);export{f as default};

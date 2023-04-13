@@ -1,0 +1,1 @@
+var a=(r=>(r.super="超级管理员",r.admin="管理员",r.user="普通用户",r))(a||{}),t=(r=>(r["pwd-login"]="账密登录",r["code-login"]="手机验证码登录",r.register="注册",r["reset-pwd"]="重置密码",r["bind-wechat"]="微信绑定",r))(t||{});export{t as E,a};
